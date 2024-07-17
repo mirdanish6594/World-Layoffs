@@ -1,7 +1,5 @@
 # Layoffs Data Analysis Project
-
-## Project Summary
-This project focuses on analyzing layoff data across various companies, industries, locations, and time periods. Using SQL, we have performed data cleaning, standardization, and exploratory data analysis to derive meaningful insights. The dataset includes columns such as company, location, industry, total laid off, percentage laid off, date, stage, country, and funds raised (in millions).
+This project focuses on analyzing layoff data across various companies, industries, locations, and time periods. Using SQL, I have performed data cleaning, standardization, and exploratory data analysis to derive meaningful insights. The dataset includes columns such as company, location, industry, total laid off, percentage laid off, date, stage, country, and funds raised (in millions).
 
 ## Data Cleaning and Standardization
 
